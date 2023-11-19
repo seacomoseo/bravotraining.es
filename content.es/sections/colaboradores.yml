@@ -1,0 +1,26 @@
+id: colaboradores
+title: Colaboradores
+color: light
+description: |
+  Como plataforma de entrenamiento y académica, nos sentimos orgullosos de contar con apoyo de ciertas entidades relevantes en el sector
+more:
+  align: center
+  flip_y: true
+rows:
+- type: columns
+  design:
+    num: 4
+    num_xs: true
+    align_y: center
+    button: hide
+    ofuscate: true
+    grayscale: true
+  items:
+  - link: https://universaltrainer.es/
+    image: logo-universal-trainer.svg
+  - link: https://algfisioterapia.es/
+    image: logo-alg-fisioterapia.svg
+  - link: https://maniacsteam.com/
+    image: logo-the-06-00-am-maniacs-team.svg
+  - link: https://goprimal.eu/
+    image: logo-goprimal.svg

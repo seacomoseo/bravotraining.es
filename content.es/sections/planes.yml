@@ -1,0 +1,125 @@
+id: planes
+title: Planes
+subtitle: de Entrenamiento
+color: light
+rows:
+- type: columns
+  design:
+    num: 3
+    grow: true
+    color: white
+    link: '#contacto'
+    label: Contacto
+    licon: paper-plane
+    interval: 5
+    slider: true
+  items:
+  - title: INICIACIÓN
+    price: 29'90 €/mes
+    icon: circle-check
+    description: |
+      - icon-check Nivel inicial/escalado
+      - icon-check Preparación general de entrenamiento
+      - icon-check Aplicación de entrenamiento ilimitada
+      - icon-check Sesiones de entrenamiento: 4/5 semanales
+      - icon-check Apoyo complementario a través de videos
+      - icon-check Grupo de whatssap privado
+      - icon-check Descuento en formaciones y promociones
+  - title: INTERMEDIO
+    price: 59'90 €/mes
+    icon: dumbbell
+    description: |
+      - icon-check Nivel intermedio/Rx
+      - icon-check Preparación general de entrenamiento
+      - icon-check Aplicación de entrenamiento ilimitada
+      - icon-check Sesiones de entrenamiento: 5/6 semanales
+      - icon-check Apoyo complementario a través de videos
+      - icon-check Entrevista inicial opcional
+      - icon-check Grupo de whatssap privado
+      - icon-check Descuento en formaciones y promociones
+  - title: PERSONALIZADO
+    price: 89'90 €/mes
+    icon: people-arrows-left-right
+    description: |
+      - icon-check Nivel adaptado al atleta
+      - icon-check Preparación personalizada de entrenamiento
+      - icon-check Aplicación de entrenamiento ilimitada
+      - icon-check Sesiones de entrenamiento: ilimitadas
+      - icon-check Apoyo complementario a través de videos
+      - icon-check Entrevista inicial y cierre de objetivos de temporada
+      - icon-check Revisión semanal de entrenamientos
+      - icon-check Corrección de vídeos
+      - icon-check Grupo de whatssap privado
+      - icon-check Descuento en formaciones y promociones
+      - icon-check Matrícula incluida
+    more:
+      color: main-light
+      gradient_type: linear-tl
+      gradient: white
+  - title: INDIVIDUALIZADO
+    price: 120 €/mes
+    icon: hand-fist
+    description: |
+      - icon-check Nivel adaptado al atleta
+      - icon-check Preparación individualizada de entrenamiento
+      - icon-check Aplicación de entrenamiento ilimitada
+      - icon-check Sesiones de entrenamiento: ilimitadas
+      - icon-check Apoyo complementario a través de videos
+      - icon-check Entrevista inicial y cierre de objetivos de temporada
+      - icon-check Revisión diaria de entrenamientos con feedback ilimitado
+      - icon-check Corrección de vídeos
+      - icon-check Grupo de whatssap privado
+      - icon-check Descuento en formaciones y promociones
+      - icon-check Plaza prioritaria para acceder al Training Camp
+      - icon-check Matrícula incluida
+    more:
+      color: main-dark
+      gradient_type: linear-br
+      gradient: dark
+  - title: READAPTACION DEPORTIVA
+    price: 150 €/mes
+    icon: heart-pulse
+    description: |
+      - icon-check Entrevista inicial previo diagnóstico médico
+      - icon-check Evaluación inicial de sujeto mediante pruebas y test específicos para establecer el punto de partida
+      - icon-check Diseño del protocolo de trabajo individualizado
+      - icon-check Reintroducción paulatina al entrenamiento funcional
+      - icon-check Apoyo complementario a través de vídeos
+      - icon-check Sesiones ilimitadas de entrenamiento
+      - icon-check Revisión diaria de entrenamientos con feedback ilimitado
+      - icon-check Corrección de vídeos
+      - icon-check Grupo de whatssap privado
+      - icon-check Descuento en formaciones y promociones
+      - icon-check Plaza prioritaria para acceder al training camp
+      - icon-check Matrícula incluida
+    more:
+      color: dark
+      gradient_type: linear-br
+      gradient: black
+  - title: BOXES Y CENTROS DEPORTIVOS
+    price: 160 €/mes
+    icon: users
+    description: |
+      - icon-check Nivel adaptado al centro deportivo
+      - icon-check Preparación general de entrenamiento
+      - icon-check Aplicación de entrenamiento ilimitada
+      - icon-check Sesiones de entrenamiento: 5-6/semana
+      - icon-check Apoyo complementario a través de videos
+      - icon-check Entrevista inicial y cierre de objetivos de temporada
+      - icon-check Grupo de whatssap privado
+      - icon-check Descuento en formaciones y promociones
+      - icon-check Matrícula incluida
+- type: columns
+  items:
+  - link: '#planes-comparativa'
+    label: Tabla Comparativa
+    more:
+      licon: table-list
+- type: columns
+  design:
+    num: 3
+    grow: true
+    color: white
+  items:
+  - description: |
+      [Pregunta](#contacto) por nuestras ofertas trimestrales y semestrales así como las condiciones de pago.

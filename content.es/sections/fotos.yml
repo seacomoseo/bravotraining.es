@@ -1,0 +1,30 @@
+id: fotos
+title: Fotos
+color: main-dark
+gradient: black
+more:
+  gradient_type: linear-br
+  flip_y: false
+rows:
+- type: gallery
+  design:
+    max: 12
+    num: 4
+    alt: false
+    wrap: true
+    gap: true
+    cover: true
+    grayscale: false
+  images:
+  - entrenador-personal.jpg
+  - programacion-cross-training.jpg
+  - programacion-crossfit.jpg
+  - programacion-deportiva-grupos.jpg
+  - campeonatos-deportivos.jpg
+  - programacion-hyrox.jpg
+  - readaptacion-deportiva.jpg
+  - readaptaciones-deportivas.jpg
+  - training-camp-2022-bravo-training-team.jpg
+  - training-camp-2022-bravo-training.jpg
+  - training-camp-2022-sm.jpg
+  - wod-mujer-sm.jpg

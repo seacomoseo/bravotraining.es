@@ -1,0 +1,28 @@
+id: wod
+title: WOD
+subtitle: Semanal
+color: main-dark
+size: md
+gradient: black
+more:
+  gradient_type: linear-br
+  flip_y: false
+rows:
+- type: columns
+  design:
+    num: 2
+    align_y: center
+  items:
+  - order: 2
+    description: |
+      - FOR TIME. TIME CAP: 16'
+      - 21-15-9
+      - D-BALL CLEAN @70/50 KGS
+      - BURPEE D-BALL FACING
+      - icon-bullseye-pointer Entre series 21 GHD SIT UPS
+      ---
+      - TOP: SUB 12'.
+      - Masters y teens: 60/40 KGS - 50/30 KGS
+    more:
+      align: left
+  - image: wod-mujer-sm.jpg

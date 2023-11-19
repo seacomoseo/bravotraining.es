@@ -1,0 +1,19 @@
+id: header
+anchor: Entrenador Personal y Readaptación Deportiva
+title: Bravo Training ®
+subtitle: '*Programación Cross Training y HRX* *Formacion Online* *Readaptación Deportiva* *Personal Training*'
+color: main-dark
+image: logo.svg
+bg: paco-bravo-world-crossfit-games-madison-usa.mp4#t=3
+size: sm
+gradient: black
+description: |
+  Te ayudamos a comprender y mejorar tu rendimiento deportivo
+
+  [btn icon-plus Más](#principal)
+more:
+  underline: false
+  image_min: 18
+  opacity: 20
+  parallax: true
+  gradient_type: linear-r

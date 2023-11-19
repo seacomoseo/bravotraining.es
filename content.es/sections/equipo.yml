@@ -1,0 +1,18 @@
+id: equipo
+title: Equipo
+color: light
+rows:
+- type: columns
+  design:
+    num: 3
+    color: white
+    inset: true
+  items:
+  - title: Paco Bravo
+    subtitle: Entrenador Personal y Atleta
+    link: '#equipo-paco-bravo'
+    image: equipo-paco-bravo.jpg
+  - title: Nieves García
+    subtitle: Coaching Deportivo y Entrenadora Personal
+    link: '#equipo-nieves-garcia'
+    image: equipo-nieves-garcia.jpg

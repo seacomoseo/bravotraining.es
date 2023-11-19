@@ -1,0 +1,60 @@
+id: resenas
+title: Reseñas
+color: main-dark
+gradient: black
+more:
+  gradient_type: linear-br
+  flip_y: false
+rows:
+- type: reviews
+  design:
+    num: 3
+    color: white
+    slider: true
+  items:
+  - title: Daniel Lara
+    description: |
+      BravoTraining NO es una simple plataforma o web de entrenamientos funcionales o crosstraining, donde los entrenamientos están poco o nada testados, NO acordes con la forma física y nivel individual de cada uno o con la realidad deportiva que se necesita, bien  para superarse o bien para conseguir ciertos objetivos como por ejemplo, la competición.
+
+      Es por encima de todo, un equipo, un grupo de atletas con unos objetivos y  un entrenador al que no sólo le gusta su trabajo, si no que tiene un don en cuanto a la forma de entender el deporte y programar para ello..
+
+      Un muy buen atleta, que ayuda más si cabe al desempeño de su trabajo.
+
+      Ese es Paco Bravo, una persona con inquietudes profesionales, que se forma y que se preocupa por formarte y realizar no sólo  cursos de formación, si no de hacer equipo y piña entre todos los que en cierto modo estamos metidos en nuestra locura deportiva (haciendo por ejemplo, boodcamps en diferentes localizaciones en la geografía nacional)
+
+      Con todo lo anterior, solo me queda decir, que de esta forma y diariamente, intentará sacar la mejor versión de uno mismo y podrás llegar a conquistar tus objetivos!
+  - title: Juan Jose Rubiño
+    description: |
+      Después de 2 años bajo las directrices de Bravo Training, puedo afirmar con rotundidad que, en este tiempo y desde los primeros días, he podido comprobar, no solo que es un entrenador bien formado y preparado y que sabe lo que hace, sino que, además, es líder, es psicólogo, es maestro, es amigo, es todo lo que necesito en esta loca faceta mía del crosstraining...
+
+      No sé si será el mejor entrenador. Y no me importa, no ha de importarte, porque, en cualquier caso, te dará lo que necesites para descorcharte como atleta, para salir de esa lesión, para llegar a donde te propongas deportivamente... Y con eso basta.
+
+      Gracias, entrenador. Gracias, líder. Gracias, psicólogo. Gracias, maestro. Gracias, amigo. Gracias.
+  - title: Adela Marín
+    description: |
+      Llegue hace un año a este equipo, al área de recapacitación, recién operada, en pocos meses estaba compitiendo…
+
+      Bravo Training es algo más que una plataforma de entrenamiento, es profesionalidad, es pasión por lo que hacen, es implicación, es apoyo…
+
+      Paco y Nieves hacen que mi devoción por esto sea aún mayor. ¡Por muchos años juntos! GRACIAS ♡
+  - title: Nicolás Bermúdez
+    description: |
+      Buen formador como educador físico deportivo e indudable su experiencia como atleta.
+
+      Gran entrenador con amplio conocimiento y sobre todo involucrado con sus atletas tanto en lo físico como mentalmente.
+
+      Llevo su programación actualmente para en un futuro no lejano opositar para bombero y estoy contentísimo por su gran variedad de métodos y estímulos que me va aportando, a la vez que compruebo que voy progresando.
+
+      Invertir tiempo y recursos en Paco es una gran apuesta por conseguir tus objetivos, sin duda!!
+  - title: Esteban Lemos
+    description: |
+      Un súper profesional con su trabajo, entregado al 100%, se preocupa de todo este correcto, siempre intenta solucionarte tus dudas lo antes posible, y mantienes un contacto directo continuo que te ayuda a progresar.
+
+      Programaciones hay muchas, pero no programadores que se preocupen por los atletas. Paco si lo hace. Un 10 sobre 10 🔝🔝
+- type: columns
+  items:
+  - description: |
+      Más reseñas:
+      {.subtitle}
+
+      [btn icon-star Google](https://g.page/r/CQO0z-fbrStlEAg/review "noindex")

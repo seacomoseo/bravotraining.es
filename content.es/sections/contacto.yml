@@ -1,0 +1,59 @@
+id: contacto
+title: Contacto
+color: white
+button: link
+size: sm
+rows:
+- type: contact
+  data:
+  - type: schedule
+    days: Lunes a Viernes
+    hours: 9:00 a 18:00
+  - type: schedule
+    days: Sábados
+    hours: 10:00 a 14:00
+  - type: br
+  - type: phone
+    label: 637 15 20 75
+  - type: whatsapp
+    button: link
+    label: 637 15 20 75
+  - type: mail
+    label: info@bravotraining.es
+    full: true
+  # - type: custom
+  #   link: https://www.instagram.com/paco_bravo_ccafd/
+  #   label: '@paco_bravo_ccafd'
+  #   icon: instagram
+  # - type: custom
+  #   link: https://www.instagram.com/bravo_training_/
+  #   label: '@bravo_training_'
+  #   icon: instagram
+  # - type: custom
+  #   link: https://www.youtube.com/channel/UCRz8GwSqH6ddiMeaJvvyRDA
+  #   label: Youtube
+  #   icon: youtube
+  - type: address
+    active: false
+    name: Bravo Training
+    streetAddress: Calle Escultor León Ortega, 12
+    postalCode: 21002
+    addressLocality: Huelva
+    addressRegion: Huelva
+    addressCountry: España
+  form:
+    fill_inputs: false
+    items:
+    - type: text
+      name: Nombre
+      required: true
+    - type: email
+      name: Email
+      required: true
+    - type: textarea
+      name: Mensaje
+      required: true
+  # map:
+  #   active: true
+  #   link: https://g.page/CQO0z-fbrStlEAg
+  #   iframe: ''

@@ -1,0 +1,113 @@
+// Menu
+
+.menu .container--lg {
+  --container-width: #{fluid-size($screen-min, 1300px)};
+}
+
+// Header
+
+#body-inicio #header {
+  .subtitle {
+    margin-top: 1em;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: .5em;
+    em {
+      padding: .25em .75em;
+      border: .125em $main solid;
+      border-radius: $radius;
+    }
+  }
+  .section__title {
+    animation: show-up .5s 2.5s both;
+  }
+  .subtitle {
+    animation: show-up .5s 2.75s both;
+  }
+  .description {
+    p {
+      animation: show-up .5s 3s both;
+    }
+    .buttons {
+      animation: show-up .5s 3.25s both;
+    }
+  }
+}
+
+
+// Sections
+
+.underline:after {
+  box-sizing: content-box;
+  width: 0;
+  height: 0;
+  margin: 0 auto;
+  border-radius: 0 0 0 100%;
+  border-width: 0 0 0.25em 4em;
+  border-color: transparent;
+  border-left-color: $main;
+  border-style: solid;
+  transform: rotate(-2deg);
+  background-color: initial;
+}
+#planes {
+  .slider {
+    display: flex;
+    flex-direction: column;
+  }
+  .slider__arrows {
+    order: 0;
+    margin-top: 0;
+  }
+  .slider__bullets {
+    order: 1;
+    margin-bottom: 1em;
+  }
+  .slider__track {
+    order: 2;
+  }
+}
+#planes-comparativa {
+  thead tr {
+    color: inherit;
+    background-color: $white;
+    svg {
+      fill: $main;
+      font-size: 2em;
+      margin: 0.25em 0;
+    }
+  }
+  tbody tr:first-child {
+    @include font-title;
+    color: $main;
+  }
+  table {
+    &:after {
+      content: 'Deliza a los lados';
+      position: absolute;
+      top: 5em;
+      left: 1em;
+      color: $grey;
+      animation: callnow 10s infinite;
+    }
+    @media (min-width: 900px) {
+      &:after {
+        display: none;
+      }
+    }
+  }
+}
+#sistemas {
+  .column__content {
+    svg.image__inner {
+      max-width: 10em;
+    }
+  }
+}
+
+// Otros
+
+.price {
+  color: $main;
+}

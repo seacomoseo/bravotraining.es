@@ -1,0 +1,32 @@
+baseURL: https://bravotraining.es
+Paginate: 24
+buildFuture: false
+theme: [sansoul]
+params:
+  git_url: https://gitlab.com/bravotraining/bravotraining.es
+  netlify_name: bravotraining
+  netlify_id: 4fe865cc-7322-4887-a14e-42ad63a4cb98
+  drive_link: https://drive.google.com/file/d/16aq9OD9mtVa7xvbM1VwJyULkNZOprjyD
+  drive_mails: franciscoabelbt@gmail.com, garciabravotraining19@gmail.com, nievesokmashuelva@gmail.com
+defaultContentLanguage: es
+disableLanguages: [en]
+languages:
+  es:
+    paginatePath: pagina
+    permalinks:
+      page:
+        pages: :slug
+        blog: :slug
+        events: evento/:year/:month/:day/:slug
+        products: producto/:slug
+        categories: categoria/:slug
+        tags: etiqueta/:slug
+        authors: autor/:slug
+      section:
+        pages: paginas
+        blog: blog
+        events: eventos
+        products: productos
+        categories: categorias
+        tags: etiquetas
+        authors: autores

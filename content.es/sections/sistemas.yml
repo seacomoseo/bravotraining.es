@@ -1,0 +1,17 @@
+id: sistemas
+title: Sistemas
+subtitle: de Entrenamiento
+color: white
+rows:
+- type: columns
+  items:
+  - title: Cross Training
+    image: icono-cross-training.svg
+  - title: HRX
+    image: icono-hyrox.svg
+  - title: Readaptación
+    image: icono-readaptacion-deportiva.svg
+  - title: Formación Online
+    image: icono-formacion-online.svg
+  - title: Funcional
+    image: icono-entrenamiento-funcional.svg

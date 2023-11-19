@@ -1,0 +1,26 @@
+id: equipo-paco-bravo
+title: Paco Bravo
+subtitle: Entrenador Personal y Atleta
+image: equipo-paco-bravo.jpg
+size: xs
+description: |
+  **Perfil académico**
+  {.h4}
+
+  - icon-check Licenciado en Ciencias de la Actividad Física y del Deporte. UGR.
+  - icon-check Profesor de Educación Física.
+  - icon-check Formador de formadores en cursos online y presenciales.
+  - icon-check Entrenador de atletas online: RX, Másters, Equipos, Boxes.
+  - icon-check Ponente y formador en seminarios relacionados con el deporte.
+
+  **Perfil deportivo**
+  {.h4}
+
+  - icon-check Competidor en Crossfit Games.
+  - icon-check Competidor en Italian Showdown.
+  - icon-check Competidor en Wodapalooza.
+  - icon-check Competidor en HRX.
+  - icon-ellipsis Entre otros.
+more:
+  align: center
+  border: main

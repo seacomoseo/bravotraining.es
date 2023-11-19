@@ -1,0 +1,11 @@
+id: rrss
+title: RRSS
+subtitle: ¡Síguenos!
+color: white
+description: |
+  [btn icon-instagram @paco_bravo_ccafd](https://www.instagram.com/paco_bravo_ccafd/)
+  [btn icon-instagram @bravo_training_](https://www.instagram.com/bravo_training_/)
+  [btn icon-youtube Youtube](https://www.youtube.com/channel/UCRz8GwSqH6ddiMeaJvvyRDA)
+more:
+  align: center
+  flip_y: true
