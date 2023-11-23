@@ -6,6 +6,7 @@ params:
   git_url: https://gitlab.com/bravotraining/bravotraining.es
   netlify_name: bravotraining
   netlify_id: 4fe865cc-7322-4887-a14e-42ad63a4cb98
+  hook: NjMwMzk2NjM0NGMxN2QwZWE0MmFiNGE3
   drive_link: https://drive.google.com/file/d/16aq9OD9mtVa7xvbM1VwJyULkNZOprjyD
   drive_mails: franciscoabelbt@gmail.com, garciabravotraining19@gmail.com, nievesokmashuelva@gmail.com
 defaultContentLanguage: es
