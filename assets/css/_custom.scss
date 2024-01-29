@@ -20,17 +20,17 @@
     }
   }
   .section__title {
-    animation: show-up .5s 2.5s both;
+    animation: show-from .5s 2.5s both;
   }
   .subtitle {
-    animation: show-up .5s 2.75s both;
+    animation: show-from .5s 2.75s both;
   }
   .description {
     p {
-      animation: show-up .5s 3s both;
+      animation: show-from .5s 3s both;
     }
     .buttons {
-      animation: show-up .5s 3.25s both;
+      animation: show-from .5s 3.25s both;
     }
   }
 }
