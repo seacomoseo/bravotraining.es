@@ -8,11 +8,6 @@ draft: false
 noindex: false
 sections:
 - file: header
-- file: equipo
-  modals:
-  - equipo/paco-bravo
-  - equipo/nieves-garcia
-- file: nosotros
 - file: programas
   modals:
   - programas/fuerza-funcional
@@ -31,12 +26,17 @@ sections:
   - formaciones-presenciales/training-camp
   - formaciones-presenciales/grupos-reducidos
   - formaciones-presenciales/formacion-abierta
-- file: sistemas
-- file: blog
-- file: wod
-- file: colaboradores
-- file: fotos
 - file: rrss
+- file: equipo
+  modals:
+  - equipo/paco-bravo
+  - equipo/nieves-garcia
+- file: nosotros
+- file: sistemas
+- file: wod
+- file: blog
+- file: fotos
+- file: colaboradores
 - file: resenas
 - file: buzon
 ---

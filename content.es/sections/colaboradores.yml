@@ -14,6 +14,7 @@ rows:
     align_y: center
     button: hide
     ofuscate: true
+    gap: 2
     # grayscale: true
   items:
   - link: https://universaltrainer.es/
@@ -24,7 +25,7 @@ rows:
     image: colaboradores/the-06-00-am-maniacs-team.svg
   # - link: https://goprimal.eu/
   #   image: colaboradores/goprimal.svg
-  # - link: https://www.instagram.com/studio124_centroentrenamiento/
-  #   image: colaboradores/topgrip.svg
   - link: https://www.instagram.com/TOPGRIPSPAIN/
     image: colaboradores/topgrip.svg
+  - link: https://www.instagram.com/studio124_centroentrenamiento/
+    image: colaboradores/studio124.jpg
