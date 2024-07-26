@@ -1,0 +1,18 @@
+id: formacion-presencial-grupos-reducidos
+title: Grupos Reducidos
+icon: people-group
+description: |
+  Ideal para trasladar herramientas pedagógicas y conocimientos teórico-prácticos para que tus coaches se formen en los aspectos que estimes más importantes.
+rows:
+- type: contact
+  form:
+    items:
+    - type: text
+      name: Nombre
+      required: true
+    - type: email
+      name: Email
+      required: true
+    - type: textarea
+      name: Mensaje
+      required: true

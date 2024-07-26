@@ -1,0 +1,48 @@
+id: programas-comparativa
+title: Comparativa de Programas
+subtitle: de Entrenamiento
+size: lg
+icon: table-list
+description: |
+  | icon-none<br>Característica                     | icon-circle-check<br>General  | icon-people-arrows-left-right<br>Personalizado | icon-hand-fist<br>Premium | icon-heart-pulse<br>Readaptación | icon-users<br>Boxes y Centros |
+  | ----------------------------------------------- | ------------- | ------------- | --------------- | --------------- | ------------ |
+  | Precio                                          | 59'90 €/mes   | 89'90 €/mes   | 129'90 €/mes    | 149'90 €/mes    | 159'90 €/mes |
+  | Nivel                                           | Intermedio/Rx | Adaptado      | Adaptado        | Adaptado        | Adaptado     |
+  | Readaptación de Lesiones                        | icon-xmark    | icon-xmark    | icon-xmark      | icon-check      | icon-xmark   |
+  | Preparación de entrenamiento                    | General       | Personalizada | Individualizada | Individualizada | General      |
+  | Aplicación de entrenamiento ilimitada           | icon-check    | icon-check    | icon-check      | icon-check      | icon-check   |
+  | Sesiones de entrenamiento ilimitadas            | 5/6 semana    | Ilimitadas    | Ilimitadas      | Ilimitadas      | 5/6 semana   |
+  | Apoyo complementario mediante videos            | icon-check    | icon-check    | icon-check      | icon-check      | icon-check   |
+  | Entrevista inicial                              | icon-check    | icon-check    | icon-check      | icon-check      | icon-check   |
+  | Cierre de objetivos de temporada                | icon-xmark    | icon-check    | icon-check      | icon-check      | icon-check   |
+  | Revisión de entrenamientos                      | Mensual       | Semanal       | Diaria          | Diaria          | icon-xmark   |
+  | Feedback ilimitado                              | icon-xmark    | icon-xmark    | icon-check      | icon-check      | icon-xmark   |
+  | Corrección de vídeos                            | icon-check    | icon-check    | icon-check      | icon-check      | icon-xmark   |
+  | Grupo de whatssap privado                       | icon-check    | icon-check    | icon-check      | icon-check      | icon-check   |
+  | Descuento en formaciones y promociones          | icon-check    | icon-check    | icon-check      | icon-check      | icon-check   |
+  | Plaza prioritaria al Training Camp              | icon-xmark    | icon-xmark    | icon-check      | icon-check      | icon-xmark   |
+  | Matrícula incluida                              | icon-xmark    | icon-check    | icon-check      | icon-check      | icon-check   |
+  {.compare}
+# description: |
+#   | icon-none<br>Característica                     | icon-circle-check<br>Iniciación  | icon-dumbbell<br>Intermedio  | icon-people-arrows-left-right<br>Personalizado | icon-hand-fist<br>Individualizado | icon-heart-pulse<br>Readaptación | icon-users<br>Boxes y Centros |
+#   | ----------------------------------------------- | ---------------- | ------------- | ------------- | --------------- | --------------- | ---------- |
+#   | Precio                                          | 29'90 €/mes      | 59'90 €/mes   | 89'90 €/mes   | 120 €/mes       | 150 €/mes       | 160 €/mes  |
+#   | Nivel                                           | Inicial/escalado | Intermedio/Rx | Adaptado      | Adaptado        | Adaptado        | Adaptado   |
+#   | Readaptación de Lesiones                        | icon-xmark       | icon-xmark    | icon-xmark    | icon-xmark      | icon-check      | icon-xmark |
+#   | Preparación de entrenamiento                    | General          | General       | Personalizada | Individualizada | Individualizada | General    |
+#   | Aplicación de entrenamiento ilimitada           | icon-check       | icon-check    | icon-check    | icon-check      | icon-check      | icon-check |
+#   | Sesiones de entrenamiento ilimitadas            | 4/5 semana       | 5/6 semana    | Ilimitadas    | Ilimitadas      | Ilimitadas      | 5/6 semana |
+#   | Apoyo complementario mediante videos            | icon-check       | icon-check    | icon-check    | icon-check      | icon-check      | icon-check |
+#   | Entrevista inicial                              | icon-xmark       | icon-check    | icon-check    | icon-check      | icon-check      | icon-check |
+#   | Cierre de objetivos de temporada                | icon-xmark       | icon-xmark    | icon-check    | icon-check      | icon-check      | icon-check |
+#   | Revisión de entrenamientos                      | icon-xmark       | icon-xmark    | Semanal       | Diaria          | Diaria          | icon-xmark |
+#   | Feedback ilimitado                              | icon-xmark       | icon-xmark    | icon-xmark    | icon-check      | icon-check      | icon-xmark |
+#   | Corrección de vídeos                            | icon-xmark       | icon-check    | icon-check    | icon-check      | icon-check      | icon-xmark |
+#   | Grupo de whatssap privado                       | icon-check       | icon-check    | icon-check    | icon-check      | icon-check      | icon-check |
+#   | Descuento en formaciones y promociones          | icon-check       | icon-check    | icon-check    | icon-check      | icon-check      | icon-check |
+#   | Plaza prioritaria al Training Camp              | icon-xmark       | icon-xmark    | icon-xmark    | icon-check      | icon-check      | icon-xmark |
+#   | Matrícula incluida                              | icon-xmark       | icon-xmark    | icon-check    | icon-check      | icon-check      | icon-check |
+#   {.compare}
+more:
+  icon_type: bottom
+  container: light

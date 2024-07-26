@@ -11,7 +11,7 @@ rows:
     num: 2
     align_y: center
   items:
-  - image: seminario-cross-training.mp4
+  - image: videos/seminario-cross-training.mp4
     more:
       ratio: 16x9
   - description: |

@@ -3,7 +3,7 @@ title: Paco Bravo
 title_seo: Paco Bravo · Entrenador Personal y Atleta
 slug: admin
 description: Entrenador personal (profesor, formador de formadores, entrenador de atletas, ponente y formador en seminarios) y atleta (competidor en Crossfit Games, Italian Showdown, Wodapalooza e HRX).
-image: paco-bravo-sm.jpg
+image: fotos/paco-bravo-sm.jpg
 toc: false
 draft: false
 noindex: true

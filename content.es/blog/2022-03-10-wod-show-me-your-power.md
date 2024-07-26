@@ -3,7 +3,7 @@ title: UNBROKEN-ABLE
 title_seo: ''
 slug: unbroken-able
 description: El objetivo principal es establecer INTENTAR acercarse a las repeticiones unbroken en gimnasticos, o maximo con una particion de serie.
-image: programacion-cross-training.jpg
+image: fotos/programacion-cross-training.jpg
 categories:
 - wod
 tags: []

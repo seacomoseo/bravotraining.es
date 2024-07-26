@@ -13,27 +13,23 @@ rows:
   design:
     num: 3
     color: white
+    label: Más Información
   items:
   - title: Programación Deportiva
     subtitle: en Cross Training
     price: 49'90 €
     link: '#formacion-online-programacion-deportiva-cross-training'
-    label: Índice de contenidos
     icon: chalkboard-user
-    description: |
-      El objetivo principal de esta formación es sentar las bases para que cualquier entrenador/a pueda organizar desde una sesión de entrenamiento hasta una periodización mayor en Cross Training y otras disciplinas deportivas.
-
-      Entender los principios y leyes de entrenamiento, así como evaluar a un/a atleta servirán como motor para estructurar la temporada de manera correcta y eficaz. Basado en temporadas reales como atleta, entrenador y formador.
   - title: Desarrollo del Peaking y Tapering
     subtitle: para la Competición de Cross Training
     price: 49'90 €
     link: '#formacion-online-desarrollo-peaking-tapering-competicion-cross-training'
-    label: Índice de contenidos
     icon: chart-line-up
-    description: |
-      El objetivo principal de esta formación es entender la competición deportiva y como encuadrarla dentro de la programación de Cross Training.
-
-      Después de conceptualizar la competición y tratar de definir los aspectos relativos a la misma como son los entrenamientos, preparación de clasificatorios y semanas previas a la fecha diana, vamos a desgranar un bloque completo que constará de 6 semanas o microcilos para la puesta a punto mediante un peaking y tapering de elaboración propia y respaldado por bibliografía actualizada.
+  - title: Mentorías
+    subtitle: Seguimiento y feedback
+    price: Consultar precio
+    link: '#formacion-online-mentorias'
+    icon: comments
 - type: columns
   design:
     num: 3
@@ -41,39 +37,38 @@ rows:
   items:
   - title: OFERTA
     subtitle: PACK 2 CURSOS
-    price: 79'90 €
-    link: '#contacto'
-    label: Contacto
+    price: 84'90 €
+    link: '#formacion-online-oferta'
+    label: Más Información
     icon: star
-    description: |
-      Por lanzamiento de nueva web
     more:
-      licon: paper-plane
       icon_type: top
 - type: columns
   design:
     num: 1
   items:
-  - description: '---'
+  - description: ---
   - title: PRESENCIALES
 - type: columns
   design:
     num: 3
     color: white
     link: '#contacto'
-    label: Contacto
-    licon: paper-plane
+    label: Más Información
   items:
   - title: Diseñamos tu<br>TRAINING CAMP
     icon: notebook
+    link: '#formacion-presencial-training-camp'
     description: |
       Estructuramos un training camp a tu medida, en función a la ubicación del box, logística y perfil de los atletas que van a participar en el. Los contenidos los eliges tú, teóricos, prácticos o de rendimiento deportivo en cross training.
   - title: Grupos<br>Reducidos
     icon: people-group
+    link: '#formacion-presencial-grupos-reducidos'
     description: |
       Ideal para trasladar herramientas pedagógicas y conocimientos teórico-prácticos para que tus coaches se formen en los aspectos que estimes más importantes.
   - title: Formación<br>Abierta
     icon: person-chalkboard
+    link: '#formacion-presencial-formacion-abierta'
     description: |
       Ideal para diseñar un evento de un día en tu centro donde puedan participar clientes del mismo o de cara al público en general.
 

@@ -1,3 +1,3 @@
-/contact/ /#contacto
+/contact/ /#buzon
 /producto/* /
 /categoria-producto/* /

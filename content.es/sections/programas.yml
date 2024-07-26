@@ -1,5 +1,5 @@
-id: planes
-title: Planes
+id: programas
+title: Programas
 subtitle: de Entrenamiento
 color: light
 rows:
@@ -8,26 +8,38 @@ rows:
     num: 3
     grow: true
     color: white
-    link: '#contacto'
     label: Contacto
     licon: paper-plane
     interval: 5
     slider: true
   items:
-  - title: INICIACIÓN
-    price: 29'90 €/mes
-    icon: circle-check
-    description: |
-      - icon-check Nivel inicial/escalado
-      - icon-check Preparación general de entrenamiento
-      - icon-check Aplicación de entrenamiento ilimitada
-      - icon-check Sesiones de entrenamiento: 4/5 semanales
-      - icon-check Apoyo complementario a través de videos
-      - icon-check Grupo de whatssap privado
-      - icon-check Descuento en formaciones y promociones
-  - title: INTERMEDIO
-    price: 59'90 €/mes
+  # - title: INICIACIÓN
+  #   price: 29'90 €/mes
+  #   icon: circle-check
+  #   description: |
+  #     - icon-check Nivel inicial/escalado
+  #     - icon-check Preparación general de entrenamiento
+  #     - icon-check Aplicación de entrenamiento ilimitada
+  #     - icon-check Sesiones de entrenamiento: 4/5 semanales
+  #     - icon-check Apoyo complementario a través de videos
+  #     - icon-check Grupo de whatssap privado
+  #     - icon-check Descuento en formaciones y promociones
+  - title: FUERZA FUNCIONAL
+    price: 39'90 €/mes
     icon: dumbbell
+    link: '#programa-fuerza-funcional'
+    description: |
+      - icon-check Entrenamiento con básicos de fuerza compensado
+      - icon-check Variantes y adaptaciones para trabajar en box o en sala fitness
+      - icon-check Circuitos de trabajo y wods sin elementos gimnásticos avanzados
+      - icon-check Aplicación de entrenamiento ilimitada
+      - icon-check Sesiones de entrenamiento: 5/6 semanales
+      - icon-check Apoyo complementario a través de videos
+      - icon-check Descuento en formaciones y promociones
+  - title: GENERAL
+    price: 59'90 €/mes
+    icon: circle-check
+    link: '#programa-general'
     description: |
       - icon-check Nivel intermedio/Rx
       - icon-check Preparación general de entrenamiento
@@ -35,11 +47,13 @@ rows:
       - icon-check Sesiones de entrenamiento: 5/6 semanales
       - icon-check Apoyo complementario a través de videos
       - icon-check Entrevista inicial opcional
+      - icon-check Ajustes mensuales de la programación
       - icon-check Grupo de whatssap privado
       - icon-check Descuento en formaciones y promociones
   - title: PERSONALIZADO
     price: 89'90 €/mes
     icon: people-arrows-left-right
+    link: '#programa-personalizado'
     description: |
       - icon-check Nivel adaptado al atleta
       - icon-check Preparación personalizada de entrenamiento
@@ -56,9 +70,10 @@ rows:
       color: main-light
       gradient_type: linear-tl
       gradient: white
-  - title: INDIVIDUALIZADO
-    price: 120 €/mes
+  - title: PREMIUM
+    price: 129'90 €/mes
     icon: hand-fist
+    link: '#programa-premium'
     description: |
       - icon-check Nivel adaptado al atleta
       - icon-check Preparación individualizada de entrenamiento
@@ -77,8 +92,9 @@ rows:
       gradient_type: linear-br
       gradient: dark
   - title: READAPTACION DEPORTIVA
-    price: 150 €/mes
+    price: 149'90 €/mes
     icon: heart-pulse
+    link: '#programa-readaptacion-deportiva'
     description: |
       - icon-check Entrevista inicial previo diagnóstico médico
       - icon-check Evaluación inicial de sujeto mediante pruebas y test específicos para establecer el punto de partida
@@ -97,8 +113,9 @@ rows:
       gradient_type: linear-br
       gradient: black
   - title: BOXES Y CENTROS DEPORTIVOS
-    price: 160 €/mes
+    price: 159'90 €/mes
     icon: users
+    link: '#programa-boxes-centros-deportivos'
     description: |
       - icon-check Nivel adaptado al centro deportivo
       - icon-check Preparación general de entrenamiento
@@ -111,7 +128,7 @@ rows:
       - icon-check Matrícula incluida
 - type: columns
   items:
-  - link: '#planes-comparativa'
+  - link: '#programas-comparativa'
     label: Tabla Comparativa
     more:
       licon: table-list
@@ -122,4 +139,4 @@ rows:
     color: white
   items:
   - description: |
-      [Pregunta](#contacto) por nuestras ofertas trimestrales y semestrales así como las condiciones de pago.
+      [Pregunta](#buzon) por nuestras ofertas trimestrales y condiciones de pago.

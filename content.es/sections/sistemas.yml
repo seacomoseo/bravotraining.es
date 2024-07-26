@@ -6,12 +6,12 @@ rows:
 - type: columns
   items:
   - title: Cross Training
-    image: icono-cross-training.svg
+    image: iconos/cross-training.svg
   - title: HRX
-    image: icono-hyrox.svg
+    image: iconos/hyrox.svg
   - title: Readaptación
-    image: icono-readaptacion-deportiva.svg
+    image: iconos/readaptacion-deportiva.svg
   - title: Formación Online
-    image: icono-formacion-online.svg
+    image: iconos/formacion-online.svg
   - title: Funcional
-    image: icono-entrenamiento-funcional.svg
+    image: iconos/entrenamiento-funcional.svg

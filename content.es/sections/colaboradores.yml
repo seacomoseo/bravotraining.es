@@ -1,6 +1,6 @@
 id: colaboradores
 title: Colaboradores
-color: light
+color: white
 description: |
   Como plataforma de entrenamiento y académica, nos sentimos orgullosos de contar con apoyo de ciertas entidades relevantes en el sector
 more:
@@ -14,13 +14,17 @@ rows:
     align_y: center
     button: hide
     ofuscate: true
-    grayscale: true
+    # grayscale: true
   items:
   - link: https://universaltrainer.es/
-    image: logo-universal-trainer.svg
-  - link: https://algfisioterapia.es/
-    image: logo-alg-fisioterapia.svg
+    image: colaboradores/universal-trainer.svg
+  # - link: https://algfisioterapia.es/
+  #   image: colaboradores/alg-fisioterapia.svg
   - link: https://maniacsteam.com/
-    image: logo-the-06-00-am-maniacs-team.svg
-  - link: https://goprimal.eu/
-    image: logo-goprimal.svg
+    image: colaboradores/the-06-00-am-maniacs-team.svg
+  # - link: https://goprimal.eu/
+  #   image: colaboradores/goprimal.svg
+  # - link: https://www.instagram.com/studio124_centroentrenamiento/
+  #   image: colaboradores/topgrip.svg
+  - link: https://www.instagram.com/TOPGRIPSPAIN/
+    image: colaboradores/topgrip.svg

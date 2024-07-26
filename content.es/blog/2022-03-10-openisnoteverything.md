@@ -2,7 +2,7 @@
 title: Se acabó el OPEN 2022, y ahora ¿qué?
 slug: openisnoteverything
 description: ''
-image: 9ede12c0-bb29-4fe4-9819-fe1c4449aef9.jpg
+image: fotos/9ede12c0-bb29-4fe4-9819-fe1c4449aef9.jpg
 categories: [noticias]
 author: admin
 toc: false

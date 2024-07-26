@@ -1,5 +1,6 @@
-id: contacto
-title: Contacto
+id: buzon
+title: Buzón
+subtitle: para otras consultas
 color: white
 button: link
 size: sm

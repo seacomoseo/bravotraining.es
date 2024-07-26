@@ -1,0 +1,35 @@
+id: formacion-online-programacion-deportiva-cross-training
+title: Programación Deportiva
+subtitle: en Cross Training
+image: formaciones-online/programacion-cross-training.jpg
+description: |
+  El objetivo principal de esta formación es sentar las bases para que cualquier entrenador/a pueda organizar desde una sesión de entrenamiento hasta una periodización mayor en Cross Training y otras disciplinas deportivas.
+
+  Entender los principios y leyes de entrenamiento, así como evaluar a un/a atleta servirán como motor para estructurar la temporada de manera correcta y eficaz. Basado en temporadas reales como atleta, entrenador y formador.
+
+  #### Índice de contenidos
+
+  - icon-check Concepto y tipos de planificaciones deportivas. 
+  - icon-check ¿Cómo programar? Aspectos a tener en cuenta. 
+  - icon-check Vinculación con los factores y principios del entrenamiento.
+  - icon-check Fundamentos de los principales sistemas de entrenamiento. Vías de trabajo. 
+  - icon-check Elaboración del perfil fisiológico y mecánico del atleta.
+  - icon-check Pautas fundamentales para elaborar la micro y macroestructura. Reevaluación. 
+  - icon-check Feedback de la temporada y replanteamiento de nuevos objetivos
+  - icon-check Bloc de notas y supuesto práctico.
+more:
+  ratio: 1x1
+  inset: true
+rows:
+- type: contact
+  form:
+    items:
+    - type: text
+      name: Nombre
+      required: true
+    - type: email
+      name: Email
+      required: true
+    - type: textarea
+      name: Mensaje
+      required: true

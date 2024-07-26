@@ -1,0 +1,23 @@
+id: formacion-online-mentorias
+title: Mentorías
+subtitle: Seguimiento y feedback
+icon: comments
+description: |
+  Estructuración de un programa acorde a la disponibilidad del cliente donde, a través del contenido contratado, se regulará una estructura pautada mediante sesiones de 30 minutos, donde se ofrecerá coaching 1 a 1 mediante videoconferencia.
+
+  Seguimiento y feedback del trabajo acordado.
+
+  Consultar precio y otras cuestriones:
+rows:
+- type: contact
+  form:
+    items:
+    - type: text
+      name: Nombre
+      required: true
+    - type: email
+      name: Email
+      required: true
+    - type: textarea
+      name: Mensaje
+      required: true

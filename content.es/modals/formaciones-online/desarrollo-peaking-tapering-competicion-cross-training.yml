@@ -1,0 +1,37 @@
+id: formacion-online-desarrollo-peaking-tapering-competicion-cross-training
+title: Desarrollo del Peaking y Tapering
+subtitle: para la Competición de Cross Training
+image: formaciones-online/desarrollo-peaking-tapering-competicion-cross-training.jpg
+description: |
+  El objetivo principal de esta formación es entender la competición deportiva y como encuadrarla dentro de la programación de Cross Training.
+
+  Después de conceptualizar la competición y tratar de definir los aspectos relativos a la misma como son los entrenamientos, preparación de clasificatorios y semanas previas a la fecha diana, vamos a desgranar un bloque completo que constará de 6 semanas o microcilos para la puesta a punto mediante un peaking y tapering de elaboración propia y respaldado por bibliografía actualizada.
+
+  #### Índice de contenidos
+
+  - icon-check Concepto y tipos de competición deportiva.
+  - icon-check Pirámide deportiva.
+  - icon-check Tipos de competición en Cross Training. Fitness Funcional.
+  - icon-check Requisitos recomendados para la competición.
+  - icon-check ¿Cómo entrenar para la competición? 
+  - icon-check Aspectos cuantitativos. Pre, intra y post-competición.
+  - icon-check Peaking y tapering competitivo. Esquema y desarrollo de 6 semanas. 
+  - icon-check Aspectos cualitativos. Factores psicológicos asociados al rendimiento deportivo.         
+  - icon-check Bloc de notas y supuesto práctico.
+  - icon-check Bibliografía.
+more:
+  ratio: normal
+  inset: true
+rows:
+- type: contact
+  form:
+    items:
+    - type: text
+      name: Nombre
+      required: true
+    - type: email
+      name: Email
+      required: true
+    - type: textarea
+      name: Mensaje
+      required: true

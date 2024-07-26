@@ -16,15 +16,28 @@ rows:
     cover: true
     grayscale: false
   images:
-  - entrenador-personal.jpg
-  - programacion-cross-training.jpg
-  - programacion-crossfit.jpg
-  - programacion-deportiva-grupos.jpg
-  - campeonatos-deportivos.jpg
-  - programacion-hyrox.jpg
-  - readaptacion-deportiva.jpg
-  - readaptaciones-deportivas.jpg
-  - training-camp-2022-bravo-training-team.jpg
-  - training-camp-2022-bravo-training.jpg
-  - training-camp-2022-sm.jpg
-  - wod-mujer-sm.jpg
+  - fotos/entrenador-personal.jpg
+  - fotos/2024-07-26-13-54-23-sm.jpg
+  - fotos/2024-07-26-13-54-19-sm.jpg
+  - fotos/2024-07-26-13-54-16-sm.jpg
+  - fotos/campeonatos-deportivos.jpg
+  - fotos/programacion-hyrox.jpg
+  - fotos/2024-07-26-13-54-13-sm.jpg
+  - fotos/readaptaciones-deportivas.jpg
+  - fotos/training-camp-2022-bravo-training-team.jpg
+  - fotos/training-camp-2022-bravo-training.jpg
+  - fotos/2024-07-26-13-54-04-sm.jpg
+  - fotos/2024-07-26-13-54-28-sm.jpg
+  # images:
+  # - fotos/entrenador-personal.jpg
+  # - fotos/programacion-cross-training.jpg
+  # - fotos/programacion-crossfit.jpg
+  # - fotos/programacion-deportiva-grupos.jpg
+  # - fotos/campeonatos-deportivos.jpg
+  # - fotos/programacion-hyrox.jpg
+  # - fotos/readaptacion-deportiva.jpg
+  # - fotos/readaptaciones-deportivas.jpg
+  # - fotos/training-camp-2022-bravo-training-team.jpg
+  # - fotos/training-camp-2022-bravo-training.jpg
+  # - fotos/training-camp-2022-sm.jpg
+  # - fotos/wod-mujer-sm.jpg

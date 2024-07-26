@@ -10,16 +10,27 @@ sections:
 - file: header
 - file: equipo
   modals:
-  - equipo-paco-bravo
-  - equipo-nieves-garcia
+  - equipo/paco-bravo
+  - equipo/nieves-garcia
 - file: nosotros
-- file: planes
+- file: programas
   modals:
-  - planes-comparativa
+  - programas/fuerza-funcional
+  - programas/general
+  - programas/personalizado
+  - programas/premium
+  - programas/readaptacion-deportiva
+  - programas/boxes-centros-deportivos
+  - programas/comparativa
 - file: formaciones
   modals:
-  - formacion-online-programacion-deportiva-cross-training
-  - formacion-online-desarrollo-peaking-tapering-competicion-cross-training
+  - formaciones-online/programacion-deportiva-cross-training
+  - formaciones-online/desarrollo-peaking-tapering-competicion-cross-training
+  - formaciones-online/mentorias
+  - formaciones-online/oferta
+  - formaciones-presenciales/training-camp
+  - formaciones-presenciales/grupos-reducidos
+  - formaciones-presenciales/formacion-abierta
 - file: sistemas
 - file: blog
 - file: wod
@@ -27,5 +38,5 @@ sections:
 - file: fotos
 - file: rrss
 - file: resenas
-- file: contacto
+- file: buzon
 ---

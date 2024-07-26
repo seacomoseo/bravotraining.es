@@ -1,0 +1,18 @@
+id: formacion-presencial-training-camp
+title: Diseñamos tu TRAINING CAMP
+icon: notebook
+description: |
+  Estructuramos un training camp a tu medida, en función a la ubicación del box, logística y perfil de los atletas que van a participar en el. Los contenidos los eliges tú, teóricos, prácticos o de rendimiento deportivo en cross training.
+rows:
+- type: contact
+  form:
+    items:
+    - type: text
+      name: Nombre
+      required: true
+    - type: email
+      name: Email
+      required: true
+    - type: textarea
+      name: Mensaje
+      required: true

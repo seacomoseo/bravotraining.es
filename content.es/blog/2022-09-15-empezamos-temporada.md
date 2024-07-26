@@ -2,7 +2,7 @@
 title: ¡Empezamos la temporada así!
 slug: empezamos-temporada
 description: ''
-image: resaca-games-2022.jpg
+image: fotos/resaca-games-2022.jpg
 categories: [noticias]
 author: admin
 toc: false
