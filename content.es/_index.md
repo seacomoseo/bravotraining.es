@@ -3,7 +3,7 @@ title: Inicio
 title_seo: Bravo Training ® Entrenador Personal y Readaptación Deportiva
 slug: inicio
 description: llll➤ Programación Cross Training y HRX, Formacion Online, Readaptación Deportiva y PT ✅ Te ayudamos a comprender y mejorar tu rendimiento deportivo.
-image: icon.png
+image: logo-bg.png
 draft: false
 noindex: false
 sections:
