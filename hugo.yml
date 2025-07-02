@@ -3,7 +3,7 @@ Paginate: 24
 buildFuture: false
 theme: [sansoul]
 params:
-  git_url: https://gitlab.com/bravotraining/bravotraining.es
+  git_url: https://github.com/seacomoseo/bravotraining.es
   netlify_name: bravotraining
   netlify_id: 4fe865cc-7322-4887-a14e-42ad63a4cb98
   hook: NjMwMzk2NjM0NGMxN2QwZWE0MmFiNGE3

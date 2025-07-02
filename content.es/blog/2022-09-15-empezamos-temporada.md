@@ -9,7 +9,7 @@ toc: false
 draft: false
 noindex: false
 date: 2022-09-15
-lastmod: ''
+# lastmod: ''
 ---
 Arranca la temporada tras la resaca de los Games 2022, donde de manera bestial se
 vuelven a imponer Tia Clair y Medeiros! Y es que no podemos esperar más, ya que este

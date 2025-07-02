@@ -9,7 +9,7 @@ toc: false
 draft: false
 noindex: false
 date: 2022-03-10
-lastmod: ''
+# lastmod: ''
 ---
 Pues ahora toca continuar, y es que, el **OPEN** para el 99.5 % de la población debe suponer una competición de control, o quizás eliminatoria, pero son muy pocos los que pueden y deben situarla como **DIANA** dentro de su planificación anual o **MACROCICLO**.
 
