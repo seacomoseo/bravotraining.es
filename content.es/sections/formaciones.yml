@@ -17,12 +17,12 @@ rows:
   items:
   - title: Programación Deportiva
     subtitle: en Cross Training
-    price: 49'90 €
+    price: 50 €
     link: '#formacion-online-programacion-deportiva-cross-training'
     icon: chalkboard-user
   - title: Desarrollo del Peaking y Tapering
     subtitle: para la Competición de Cross Training
-    price: 49'90 €
+    price: 50 €
     link: '#formacion-online-desarrollo-peaking-tapering-competicion-cross-training'
     icon: chart-line-up
   - title: Mentorías
@@ -37,7 +37,7 @@ rows:
   items:
   - title: OFERTA
     subtitle: PACK 2 CURSOS
-    price: 84'90 €
+    price: 85 €
     link: '#formacion-online-oferta'
     label: Más Información
     icon: star

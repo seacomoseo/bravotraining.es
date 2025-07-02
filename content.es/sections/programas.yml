@@ -14,7 +14,7 @@ rows:
     slider: true
   items:
   # - title: INICIACIÓN
-  #   price: 29'90 €/mes
+  #   price: 30 €/mes
   #   icon: circle-check
   #   description: |
   #     - icon-check Nivel inicial/escalado
@@ -25,7 +25,7 @@ rows:
   #     - icon-check Grupo de whatssap privado
   #     - icon-check Descuento en formaciones y promociones
   - title: FUERZA FUNCIONAL
-    price: 39'90 €/mes
+    price: 40 €/mes
     icon: dumbbell
     link: '#programa-fuerza-funcional'
     description: |
@@ -37,7 +37,7 @@ rows:
       - icon-check Apoyo complementario a través de videos
       - icon-check Descuento en formaciones y promociones
   - title: GENERAL
-    price: 59'90 €/mes
+    price: 60 €/mes
     icon: circle-check
     link: '#programa-general'
     description: |
@@ -51,7 +51,7 @@ rows:
       - icon-check Grupo de whatssap privado
       - icon-check Descuento en formaciones y promociones
   - title: PERSONALIZADO
-    price: 89'90 €/mes
+    price: 90 €/mes
     icon: people-arrows-left-right
     link: '#programa-personalizado'
     description: |
@@ -71,7 +71,7 @@ rows:
       gradient_type: linear-tl
       gradient: white
   - title: PREMIUM
-    price: 129'90 €/mes
+    price: 130 €/mes
     icon: hand-fist
     link: '#programa-premium'
     description: |
@@ -92,7 +92,7 @@ rows:
       gradient_type: linear-br
       gradient: dark
   - title: READAPTACION DEPORTIVA
-    price: 149'90 €/mes
+    price: 150 €/mes
     icon: heart-pulse
     link: '#programa-readaptacion-deportiva'
     description: |
@@ -113,7 +113,7 @@ rows:
       gradient_type: linear-br
       gradient: black
   - title: BOXES Y CENTROS DEPORTIVOS
-    price: 159'90 €/mes
+    price: 160 €/mes
     icon: users
     link: '#programa-boxes-centros-deportivos'
     description: |

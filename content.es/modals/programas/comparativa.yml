@@ -6,7 +6,7 @@ icon: table-list
 description: |
   | icon-none<br>Característica                     | icon-circle-check<br>General  | icon-people-arrows-left-right<br>Personalizado | icon-hand-fist<br>Premium | icon-heart-pulse<br>Readaptación | icon-users<br>Boxes y Centros |
   | ----------------------------------------------- | ------------- | ------------- | --------------- | --------------- | ------------ |
-  | Precio                                          | 59'90 €/mes   | 89'90 €/mes   | 129'90 €/mes    | 149'90 €/mes    | 159'90 €/mes |
+  | Precio                                          | 60 €/mes      | 80 €/mes      | 130 €/mes       | 150 €/mes       | 160 €/mes    |
   | Nivel                                           | Intermedio/Rx | Adaptado      | Adaptado        | Adaptado        | Adaptado     |
   | Readaptación de Lesiones                        | icon-xmark    | icon-xmark    | icon-xmark      | icon-check      | icon-xmark   |
   | Preparación de entrenamiento                    | General       | Personalizada | Individualizada | Individualizada | General      |
@@ -26,7 +26,7 @@ description: |
 # description: |
 #   | icon-none<br>Característica                     | icon-circle-check<br>Iniciación  | icon-dumbbell<br>Intermedio  | icon-people-arrows-left-right<br>Personalizado | icon-hand-fist<br>Individualizado | icon-heart-pulse<br>Readaptación | icon-users<br>Boxes y Centros |
 #   | ----------------------------------------------- | ---------------- | ------------- | ------------- | --------------- | --------------- | ---------- |
-#   | Precio                                          | 29'90 €/mes      | 59'90 €/mes   | 89'90 €/mes   | 120 €/mes       | 150 €/mes       | 160 €/mes  |
+#   | Precio                                          | 30 €/mes         | 60    €/mes   | 80 €/mes      | 120 €/mes       | 150 €/mes       | 160 €/mes  |
 #   | Nivel                                           | Inicial/escalado | Intermedio/Rx | Adaptado      | Adaptado        | Adaptado        | Adaptado   |
 #   | Readaptación de Lesiones                        | icon-xmark       | icon-xmark    | icon-xmark    | icon-xmark      | icon-check      | icon-xmark |
 #   | Preparación de entrenamiento                    | General          | General       | Personalizada | Individualizada | Individualizada | General    |
