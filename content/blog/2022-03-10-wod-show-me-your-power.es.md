@@ -9,7 +9,7 @@ categories:
 - wod
 author: admin
 date: 2022-03-10
-
+draft: true
 # lastmod: false
 ---
 - **FLOW**: AMRAP (todas las categorías)

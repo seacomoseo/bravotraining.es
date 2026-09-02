@@ -1,7 +1,7 @@
 menu:
   items:
-  # - label: INICIO
-  #   url: /
+  - label: INICIO
+    url: /
   - label: PROGRAMAS DE ENTRENAMIENTO
     url: /#programas
   - label: FORMACIONES ONLINE

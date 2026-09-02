@@ -3,6 +3,7 @@ tpl:
   bg:
     color: light
   menu:
+    logo: true
     logo_align: center
     clear: true
     size: lg
