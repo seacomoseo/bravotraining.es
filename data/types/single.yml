@@ -1,0 +1,17 @@
+title: Únicas
+base: single
+weight: 0
+tpl:
+  menu:
+    logo: false
+    sticky: auto
+  callnow: auto
+  section:
+  - size: lg
+    scroll: fix
+    div: tear-alt
+    box:
+      caps: true
+      line: true
+  - div_x: true
+    div_y: true

@@ -1,0 +1,25 @@
+name: Colaboradores
+id: colaboradores
+color: white
+div_y: true
+boxes:
+- title: Colaboradores
+  md: |
+    Como plataforma de entrenamiento y académica, nos sentimos orgullosos de contar con apoyo de ciertas entidades relevantes en el sector
+  align: center
+  box:
+    cols: 4
+    cols_vs: 2
+    gap_vs: 2
+    align_y: center
+    btn: hide
+    lock: true
+  boxes:
+  - url: https://universaltrainer.es/
+    img: /u/colaboradores/universal-trainer.svg
+  - url: https://maniacsteam.com/
+    img: /u/colaboradores/the-06-00-am-maniacs-team.svg
+  - url: https://www.instagram.com/TOPGRIPSPAIN/
+    img: /u/colaboradores/topgrip.svg
+  - url: https://www.instagram.com/studio124_centroentrenamiento/
+    img: /u/colaboradores/studio124.jpg

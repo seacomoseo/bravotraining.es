@@ -1,0 +1,26 @@
+name: Fotos
+id: fotos
+color: main-dark
+fade: black
+fade_to: br
+div_y: false
+boxes:
+- title: Fotos
+  imgs:
+  - /u/fotos/entrenador-personal.jpg
+  - /u/fotos/2024-07-26-13-54-23-sm.jpg
+  - /u/fotos/2024-07-26-13-54-19-sm.jpg
+  - /u/fotos/2024-07-26-13-54-16-sm.jpg
+  - /u/fotos/campeonatos-deportivos.jpg
+  - /u/fotos/programacion-hyrox.jpg
+  - /u/fotos/2024-07-26-13-54-13-sm.jpg
+  - /u/fotos/readaptaciones-deportivas.jpg
+  - /u/fotos/training-camp-2022-bravo-training-team.jpg
+  - /u/fotos/training-camp-2022-bravo-training.jpg
+  - /u/fotos/2024-07-26-13-54-04-sm.jpg
+  - /u/fotos/2024-07-26-13-54-28-sm.jpg
+  gallery:
+    gray: false
+    cols: 4
+    color: white
+    contain: true

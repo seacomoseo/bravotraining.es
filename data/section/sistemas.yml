@@ -1,0 +1,21 @@
+name: Sistemas
+id: sistemas
+color: white
+boxes:
+- title: Sistemas
+  sub: de Entrenamiento
+  box:
+    cols: 5
+    cols_vs: 2
+    hs: 4
+  boxes:
+  - title: Cross Training
+    img: /u/iconos/cross-training.svg
+  - title: Híbrido
+    img: /u/iconos/hyrox.svg
+  - title: Readaptación
+    img: /u/iconos/readaptacion-deportiva.svg
+  - title: Formación Online
+    img: /u/iconos/formacion-online.svg
+  - title: Funcional
+    img: /u/iconos/entrenamiento-funcional.svg

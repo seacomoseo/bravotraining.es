@@ -1,0 +1,3 @@
+- { from: /contact/ , to: /#buzon }
+- { from: /producto/* , to: / }
+- { from: /categoria-producto/* , to: / }

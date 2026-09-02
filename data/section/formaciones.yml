@@ -1,0 +1,217 @@
+name: Formaciones
+id: formaciones
+color: main-dark
+fade: black
+fade_to: br
+boxes:
+- title: Formaciones
+- box:
+    hn: h3
+    gap_vs: 2
+  boxes:
+  - title: ONLINE
+    box:
+      cols: 3
+      gap_vs: 1
+      color: white
+      label: Más Información
+    boxes:
+    - title: Programación Deportiva
+      sub: en Cross Training
+      price: 50 €
+      url: '#formacion-online-programacion-deportiva-cross-training'
+      icon: cast_for_education
+    - title: Desarrollo del Peaking y Tapering
+      sub: para la Competición de Cross Training
+      price: 50 €
+      url: '#formacion-online-desarrollo-peaking-tapering-competicion-cross-training'
+      icon: show_chart
+    - title: Mentorías
+      sub: Seguimiento y feedback
+      price: Consultar precio
+      url: '#formacion-online-mentorias'
+      icon: forum
+    - title: OFERTA
+      sub: PACK 2 CURSOS
+      price: 85 €
+      url: '#formacion-online-oferta'
+      label: Más Información
+      icon: star
+  - md: ---
+  - title: PRESENCIALES
+    box:
+      cols: 3
+      gap_vs: 1
+      color: white
+      url: '#contacto'
+      label: Más Información
+    boxes:
+    - title: Diseñamos tu<br>TRAINING CAMP
+      icon: edit_calendar
+      url: '#formacion-presencial-training-camp'
+      md: |
+        Estructuramos un training camp a tu medida, en función a la ubicación del box, logística y perfil de los atletas que van a participar en el. Los contenidos los eliges tú, teóricos, prácticos o de rendimiento deportivo en cross training.
+    - title: Grupos<br>Reducidos
+      icon: groups_3
+      url: '#formacion-presencial-grupos-reducidos'
+      md: |
+        Ideal para trasladar herramientas pedagógicas y conocimientos teórico-prácticos para que tus coaches se formen en los aspectos que estimes más importantes.
+    - title: Formación<br>Abierta
+      icon: co_present
+      url: '#formacion-presencial-formacion-abierta'
+      md: |
+        Ideal para diseñar un evento de un día en tu centro donde puedan participar clientes del mismo o de cara al público en general.
+
+        Este, puede tener un carácter abierto y flexible.
+
+modal:
+  size: xs
+  color: white
+  icon_pos: top
+  inset: true
+  caps: true
+  line: true
+modals:
+- id: formacion-online-programacion-deportiva-cross-training
+  title: Programación Deportiva
+  sub: en Cross Training
+  img: /u/formaciones-online/programacion-cross-training.jpg
+  md: |
+    El objetivo principal de esta formación es sentar las bases para que cualquier entrenador/a pueda organizar desde una sesión de entrenamiento hasta una periodización mayor en Cross Training y otras disciplinas deportivas.
+
+    Entender los principios y leyes de entrenamiento, así como evaluar a un/a atleta servirán como motor para estructurar la temporada de manera correcta y eficaz. Basado en temporadas reales como atleta, entrenador y formador.
+
+    #### Índice de contenidos
+
+    - ::check:: Concepto y tipos de planificaciones deportivas. 
+    - ::check:: ¿Cómo programar? Aspectos a tener en cuenta. 
+    - ::check:: Vinculación con los factores y principios del entrenamiento.
+    - ::check:: Fundamentos de los principales sistemas de entrenamiento. Vías de trabajo. 
+    - ::check:: Elaboración del perfil fisiológico y mecánico del atleta.
+    - ::check:: Pautas fundamentales para elaborar la micro y macroestructura. Reevaluación. 
+    - ::check:: Feedback de la temporada y replanteamiento de nuevos objetivos
+    - ::check:: Bloc de notas y supuesto práctico.
+  ratio: 1/1
+  inputs:
+  - type: text
+    name: Nombre
+    req: true
+  - type: mail
+    name: Email
+    req: true
+  - type: area
+    name: Mensaje
+    req: true
+- id: formacion-online-desarrollo-peaking-tapering-competicion-cross-training
+  title: Desarrollo del Peaking y Tapering
+  sub: para la Competición de Cross Training
+  img: /u/formaciones-online/desarrollo-peaking-tapering-competicion-cross-training.jpg
+  md: |
+    El objetivo principal de esta formación es entender la competición deportiva y como encuadrarla dentro de la programación de Cross Training.
+
+    Después de conceptualizar la competición y tratar de definir los aspectos relativos a la misma como son los entrenamientos, preparación de clasificatorios y semanas previas a la fecha diana, vamos a desgranar un bloque completo que constará de 6 semanas o microcilos para la puesta a punto mediante un peaking y tapering de elaboración propia y respaldado por bibliografía actualizada.
+
+    #### Índice de contenidos
+
+    - ::check:: Concepto y tipos de competición deportiva.
+    - ::check:: Pirámide deportiva.
+    - ::check:: Tipos de competición en Cross Training. Fitness Funcional.
+    - ::check:: Requisitos recomendados para la competición.
+    - ::check:: ¿Cómo entrenar para la competición? 
+    - ::check:: Aspectos cuantitativos. Pre, intra y post-competición.
+    - ::check:: Peaking y tapering competitivo. Esquema y desarrollo de 6 semanas. 
+    - ::check:: Aspectos cualitativos. Factores psicológicos asociados al rendimiento deportivo.         
+    - ::check:: Bloc de notas y supuesto práctico.
+    - ::check:: Bibliografía.
+  inputs:
+  - type: text
+    name: Nombre
+    req: true
+  - type: mail
+    name: Email
+    req: true
+  - type: area
+    name: Mensaje
+    req: true
+- id: formacion-online-mentorias
+  title: Mentorías
+  sub: Seguimiento y feedback
+  icon: forum
+  md: |
+    Estructuración de un programa acorde a la disponibilidad del cliente donde, a través del contenido contratado, se regulará una estructura pautada mediante sesiones de 30 minutos, donde se ofrecerá coaching 1 a 1 mediante videoconferencia.
+
+    Seguimiento y feedback del trabajo acordado.
+
+    Consultar precio y otras cuestriones:
+  inputs:
+  - type: text
+    name: Nombre
+    req: true
+  - type: mail
+    name: Email
+    req: true
+  - type: area
+    name: Mensaje
+    req: true
+- id: formacion-online-oferta
+  title: Oferta
+  sub: PACK 2 CURSOS
+  price: 85 €
+  icon: star
+  inputs:
+  - type: text
+    name: Nombre
+    req: true
+  - type: mail
+    name: Email
+    req: true
+  - type: area
+    name: Mensaje
+    req: true
+- id: formacion-presencial-training-camp
+  title: Diseñamos tu TRAINING CAMP
+  icon: edit_calendar
+  md: |
+    Estructuramos un training camp a tu medida, en función a la ubicación del box, logística y perfil de los atletas que van a participar en el. Los contenidos los eliges tú, teóricos, prácticos o de rendimiento deportivo en cross training.
+  inputs:
+  - type: text
+    name: Nombre
+    req: true
+  - type: mail
+    name: Email
+    req: true
+  - type: area
+    name: Mensaje
+    req: true
+- id: formacion-presencial-grupos-reducidos
+  title: Grupos Reducidos
+  icon: groups_3
+  md: |
+    Ideal para trasladar herramientas pedagógicas y conocimientos teórico-prácticos para que tus coaches se formen en los aspectos que estimes más importantes.
+  inputs:
+  - type: text
+    name: Nombre
+    req: true
+  - type: mail
+    name: Email
+    req: true
+  - type: area
+    name: Mensaje
+    req: true
+- id: formacion-presencial-formacion-abierta
+  title: Formación Abierta
+  icon: co_present
+  md: |
+    Ideal para diseñar un evento de un día en tu centro donde puedan participar clientes del mismo o de cara al público en general.
+
+    Este, puede tener un carácter abierto y flexible.
+  inputs:
+  - type: text
+    name: Nombre
+    req: true
+  - type: mail
+    name: Email
+    req: true
+  - type: area
+    name: Mensaje
+    req: true

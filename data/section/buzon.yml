@@ -1,0 +1,34 @@
+name: Buzon
+id: buzon
+color: white
+size: sm
+menu_btn: cta
+boxes:
+- title: Buzón
+  sub: para otras consultas
+  form:
+    fill_inputs: false
+  when:
+  - days: Lunes a Viernes
+    hours: 9:00 a 18:00
+  - days: Sábados
+    hours: 10:00 a 14:00
+  links:
+  - type: phone
+    label: 637 15 20 75
+  - type: whatsapp
+    btn: cta
+    label: 637 15 20 75
+  - type: mail
+    label: info@bravotraining.es
+    full: true
+  inputs:
+  - type: text
+    name: Nombre
+    req: true
+  - type: mail
+    name: Email
+    req: true
+  - type: area
+    name: Mensaje
+    req: true

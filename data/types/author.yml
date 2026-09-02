@@ -1,0 +1,7 @@
+title: Autor
+base: author
+weight: 2
+tax_of:
+- title: Autores
+  name: blog
+  schema: author

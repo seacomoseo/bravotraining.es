@@ -1,0 +1,107 @@
+@use 'css/mixins';
+@use 'css/variables';
+
+// Hero
+
+#body-home #hero {
+  .sub {
+    margin-top: 1em;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: .5em;
+    font-size: 1.1em;
+    em {
+      padding: .25em 1em;
+      border: .125em variables.$main solid;
+      border-radius: variables.$radius;
+    }
+  }
+  .box__title {
+    animation: show-from .5s 1.5s both;
+  }
+  .sub {
+    animation: show-from .5s 1.75s both;
+  }
+  .md {
+    p {
+      animation: show-from .5s 2s both;
+    }
+    .btns {
+      animation: show-from .5s 2.25s both;
+    }
+  }
+}
+
+
+// Sections
+
+.line:after {
+  box-sizing: content-box;
+  width: 0;
+  height: 0;
+  margin: 0 auto;
+  border-radius: 0 0 0 100%;
+  border-width: 0 0 0.25em 4em;
+  border-color: transparent;
+  border-left-color: variables.$main;
+  border-style: solid;
+  transform: rotate(-2deg);
+  background-color: initial;
+}
+#programas {
+  .slider {
+    display: grid;
+    flex-direction: column;
+  }
+  .slider__arrows {
+    order: 0;
+    margin-top: 0;
+  }
+  .slider__pips {
+    order: 1;
+    margin-bottom: 1em;
+  }
+  .slider__track {
+    order: 2;
+  }
+}
+#programas-comparativa {
+  thead tr {
+    color: inherit;
+    background-color: variables.$white;
+    .icon {
+      font-size: 2em;
+      margin: 0.25em 0;
+    }
+  }
+  tbody tr:first-child {
+    @include mixins.font-title;
+    color: variables.$main;
+  }
+  table {
+    &:after {
+      content: 'Deliza a los lados';
+      position: absolute;
+      top: 3em;
+      left: 1em;
+      color: variables.$gray;
+      animation: callnow 10s infinite;
+      z-index: 100;
+      @media (min-width: 900px) {
+        display: none;
+      }
+    }
+  }
+}
+#sistemas {
+  svg.img__in {
+    @include mixins.fluid-size(max-width, 1em, 7.5, 9);
+  }
+}
+
+// Otros
+
+.price {
+  color: variables.$main;
+}

@@ -1,0 +1,26 @@
+name: wod
+id: wod
+color: main-dark
+size: md
+fade: black
+fade_to: br
+div_y: false
+boxes:
+- title: WOD
+  sub: Semanal
+  box:
+    align_y: center
+    cols: 2
+  boxes:
+  - order: 2
+    md: |
+      - FOR TIME. TIME CAP: 16'
+      - 21-15-9
+      - D-BALL CLEAN @70/50 KGS
+      - BURPEE D-BALL FACING
+      - ::campaign:: Entre series 21 GHD SIT UPS
+      ---
+      - TOP: SUB 12'.
+      - Masters y teens: 60/40 KGS - 50/30 KGS
+    align: left
+  - img: /u/fotos/wod.jpg

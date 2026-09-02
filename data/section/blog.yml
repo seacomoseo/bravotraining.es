@@ -1,0 +1,16 @@
+name: Blog
+id: blog
+color: light
+div_y: true
+max: 12
+boxes:
+- title: Blog
+  sub: Artículos
+  list:
+    category:
+    - noticias
+    type: blog
+  box:
+    color: white
+    slider: true
+    cols: 4

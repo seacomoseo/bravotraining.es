@@ -1,0 +1,35 @@
+menu:
+  items:
+  # - label: INICIO
+  #   url: /
+  - label: PROGRAMAS DE ENTRENAMIENTO
+    url: /#programas
+  - label: FORMACIONES ONLINE
+    url: /#formaciones
+  - label: NEWSLETTER
+    url: https://linktr.ee/bravotraining
+    lock: true
+  - label: RRSS
+    url: /#rrss
+  - label: BUZÓN
+    url: /#buzon
+    btn: cta
+  img: /u/base/logo.svg
+callnows: []
+footer:
+  fade: black
+  fade_to: b
+  space: 2
+  div: tear-alt
+  dots:
+  - url: https://g.page/r/CQO0z-fbrStlEAg
+  - url: https://www.instagram.com/paco_bravo_ccafd/
+  - url: https://www.instagram.com/bravo_training_/
+  - url: https://www.youtube.com/@bravotraining436
+  md: |
+    - ::copyright::      {{< internal-link index >}}
+    - ::balance:: {{< internal-link legal >}}
+    - ::encrypted:: {{< internal-link privacy >}}
+    - ::cookie::    {{< internal-link cookies >}}
+    - ::brand:seacomoseo::     {{< i18n web_design >}} [seacomoseo.com](https://seacomoseo.com/)
+    {.list-inline}

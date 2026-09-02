@@ -1,0 +1,12 @@
+name: Rrss
+id: rrss
+color: white
+div_y: true
+boxes:
+- title: RRSS
+  sub: ¡Síguenos!
+  md: |
+    [[::brand:instagram:: @paco_bravo_ccafd]](https://www.instagram.com/paco_bravo_ccafd/ "[swap nofollow]")
+    [[::brand:instagram:: @bravo_training_]](https://www.instagram.com/bravo_training_/ "[swap nofollow]")
+    [[::brand:youtube:: Youtube]](https://www.youtube.com/channel/UCRz8GwSqH6ddiMeaJvvyRDA "[swap nofollow]")
+  align: center

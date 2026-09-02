@@ -1,0 +1,23 @@
+name: Hero
+color: main-dark
+fade: black
+fade_to: r
+bi: /u/videos/paco-bravo-world-crossfit-games-madison-usa.mp4#t=3
+alpha: 0.8
+scroll: fix
+size: sm
+pt: 2
+pb: 2
+full: true
+boxes:
+- img: /u/base/logo.svg
+  fit: .5
+  fit_vs: .75
+- hanchor: Entrenador Personal y Readaptación Deportiva
+  title: Bravo Training ®
+  sub: '*Programación Cross Training e Híbrido* *Formacion Online* *Readaptación Deportiva* *Personal Training*'
+  md: |
+    Te ayudamos a comprender y mejorar tu rendimiento deportivo
+
+    [[::add:: Más]](#more)
+  line: false

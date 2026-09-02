@@ -1,0 +1,21 @@
+name: Nosotros
+id: nosotros
+color: main-dark
+size: md
+fade: black
+fade_to: br
+boxes:
+- title: Nosotros
+  box:
+    align_y: center
+    cols: 2
+  boxes:
+  - vid: /u/videos/seminario-cross-training.mp4
+    ratio: 16/9
+  - md: |
+      Desde Bravo Training ofrecemos una cobertura individualizada para alcanzar tus objetivos.
+
+      Estos pueden ir desde mejorar tu rendimiento deportivo, alcanzar un pico de forma para competir, readaptar tus entrenamientos tras una lesión o bien formarte como entrenador/a a través de nuestros Cursos Online y Seminarios. 
+
+      Tenemos una amplia experiencia en el sector y referencias que avalan nuestro trabajo temporada tras temporada.
+    align: left

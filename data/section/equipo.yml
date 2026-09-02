@@ -1,0 +1,63 @@
+name: Equipo
+id: equipo
+color: light
+boxes:
+- title: Equipo
+  box:
+    cols: 3
+    color: white
+    inset: true
+  boxes:
+  - title: Paco Bravo
+    sub: Entrenador Personal y Atleta
+    url: '#equipo-paco-bravo'
+    img: /u/equipo/paco-bravo.jpg
+  - title: Nieves García
+    sub: Coaching Deportivo y Entrenadora Personal
+    url: '#equipo-nieves-garcia'
+    img: /u/equipo/nieves-garcia.jpg
+modal:
+  size: xs
+  color: white
+  align: center
+  border: main
+  icon_pos: top
+  caps: true
+  line: true
+modals:
+- id: equipo-paco-bravo
+  title: Paco Bravo
+  sub: Entrenador Personal y Atleta
+  img: /u/equipo/paco-bravo.jpg
+  md: |
+    **Perfil académico**
+    {.h4}
+
+    - ::check:: Licenciado en Ciencias de la Actividad Física y del Deporte. UGR.
+    - ::check:: Profesor de Educación Física.
+    - ::check:: Formador de formadores en cursos online y presenciales.
+    - ::check:: Entrenador de atletas online: RX, Másters, Equipos, Boxes.
+    - ::check:: Ponente y formador en seminarios relacionados con el deporte.
+
+    **Perfil deportivo**
+    {.h4}
+
+    - ::check:: Competidor en Crossfit Games.
+    - ::check:: Competidor en Italian Showdown.
+    - ::check:: Competidor en Wodapalooza.
+    - ::check:: Competidor en Híbrido.
+    - ::more_horiz:: Entre otros.
+- id: equipo-nieves-garcia
+  title: Nieves García
+  sub: Coaching Deportivo y Entrenadora Personal
+  img: /u/equipo/nieves-garcia.jpg
+  md: |
+    **Perfil académico**
+    {.h4}
+
+    - ::check:: Graduada en Educación Social (Universidad de Huelva)
+    - ::check:: Coaching deportivo (FEF y AICM)
+    - ::check:: Crossfit Level 1 Trainer (CF-OL1)
+    - ::check:: Entrenadora personal y prescripción del ejercicio físico (FEDA)
+    - ::check:: Instructora de Hatha Yoga (RYS 200)
+    - ::check:: Formación en “Alimentación, nutrición y dietética” (Universidad Rey Juan Carlos)
