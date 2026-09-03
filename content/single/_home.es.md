@@ -69,10 +69,10 @@ org:
       close: 14:00
   prices: €€
   services:
-  - title: Programa Fuerza Funcional
-    price: 40
-    area: Online
-    url: /#programa-fuerza-funcional
+  # - title: Programa Fuerza Funcional
+  #   price: 40
+  #   area: Online
+  #   url: /#programa-fuerza-funcional
   - title: Programa General
     price: 60
     area: Online
@@ -114,8 +114,8 @@ tpl:
   - file: equipo
   - file: nosotros
   - file: sistemas
-  - file: wod
-  - file: blog
+  # - file: wod
+  # - file: blog
   - file: fotos
   - file: colaboradores
   - file: resenas

@@ -1,8 +1,5 @@
 name: Formaciones
 id: formaciones
-color: main-dark
-fade: black
-fade_to: br
 boxes:
 - title: Formaciones
 - box:
@@ -13,7 +10,7 @@ boxes:
     box:
       cols: 3
       gap_vs: 1
-      color: white
+      color: such
       label: Más Información
     boxes:
     - title: Programación Deportiva
@@ -42,7 +39,7 @@ boxes:
     box:
       cols: 3
       gap_vs: 1
-      color: white
+      color: such
       url: '#contacto'
       label: Más Información
     boxes:

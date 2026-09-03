@@ -1,7 +1,5 @@
 name: Blog
 id: blog
-color: light
-div_y: true
 max: 12
 boxes:
 - title: Blog
@@ -11,6 +9,6 @@ boxes:
     - noticias
     type: blog
   box:
-    color: white
+    color: such
     slider: true
     cols: 4

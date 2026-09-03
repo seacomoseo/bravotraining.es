@@ -1,33 +1,33 @@
 name: Programas
 id: programas
-color: light
 boxes:
 - title: Programas
   sub: de Entrenamiento
 - box:
     cols: 3
-    color: white
+    color: such
+    fade_to: tl
     hs: 5
     label: Contacto
     pin: send
     slider: true
     time: 5
   boxes:
-  - title: FUERZA FUNCIONAL
-    price: 40 €/mes
-    icon: fitness_center
-    url: '#programa-fuerza-funcional'
-    md: |
-      - ::check:: Entrenamiento con básicos de fuerza compensado
-      - ::check:: Variantes y adaptaciones para trabajar en box o en sala fitness
-      - ::check:: Circuitos de trabajo y wods sin elementos gimnásticos avanzados
-      - ::check:: Aplicación de entrenamiento ilimitada
-      - ::check:: Sesiones de entrenamiento: 5/6 semanales
-      - ::check:: Apoyo complementario a través de videos
-      - ::check:: Descuento en formaciones y promociones
+  # - title: FUERZA FUNCIONAL
+  #   price: 40 €/mes
+  #   icon: fitness_center
+  #   url: '#programa-fuerza-funcional'
+  #   md: |
+  #     - ::check:: Entrenamiento con básicos de fuerza compensado
+  #     - ::check:: Variantes y adaptaciones para trabajar en box o en sala fitness
+  #     - ::check:: Circuitos de trabajo y wods sin elementos gimnásticos avanzados
+  #     - ::check:: Aplicación de entrenamiento ilimitada
+  #     - ::check:: Sesiones de entrenamiento: 5/6 semanales
+  #     - ::check:: Apoyo complementario a través de videos
+  #     - ::check:: Descuento en formaciones y promociones
   - title: GENERAL
     price: 60 €/mes
-    icon: check_circle
+    icon: fitness_center
     url: '#programa-general'
     md: |
       - ::check:: Nivel intermedio/Rx
@@ -39,6 +39,8 @@ boxes:
       - ::check:: Ajustes mensuales de la programación
       - ::check:: Grupo de whatssap privado
       - ::check:: Descuento en formaciones y promociones
+    color: main-light
+    fade: white
   - title: PERSONALIZADO
     price: 90 €/mes
     icon: genetics
@@ -56,8 +58,6 @@ boxes:
       - ::check:: Descuento en formaciones y promociones
       - ::check:: Matrícula incluida
     color: main-light
-    fade_to: tl
-    fade: white
   - title: PREMIUM
     price: 130 €/mes
     icon: rewarded_ads
@@ -75,12 +75,12 @@ boxes:
       - ::check:: Descuento en formaciones y promociones
       - ::check:: Plaza prioritaria para acceder al Training Camp
       - ::check:: Matrícula incluida
-    color: main-dark
+    color: main
+    fade: main-dark
     fade_to: br
-    fade: dark
-  - title: READAPTACION DEPORTIVA
+  - title: READAPTACIÓN DEPORTIVA
     price: 150 €/mes
-    icon: cardiology
+    icon: physical_therapy
     url: '#programa-readaptacion-deportiva'
     md: |
       - ::check:: Entrevista inicial previo diagnóstico médico
@@ -96,8 +96,7 @@ boxes:
       - ::check:: Plaza prioritaria para acceder al training camp
       - ::check:: Matrícula incluida
     color: dark
-    fade_to: br
-    fade: black
+    fade: main-dark
   - title: BOXES Y CENTROS DEPORTIVOS
     price: 160 €/mes
     icon: groups
@@ -112,13 +111,15 @@ boxes:
       - ::check:: Grupo de whatssap privado
       - ::check:: Descuento en formaciones y promociones
       - ::check:: Matrícula incluida
+    color: main-light
+    fade: white
 - boxes:
   - url: '#programas-comparativa'
     label: Tabla Comparativa
     pin: table
 - box:
     grow: true
-    color: white
+    color: main-light
     cols: 3
   boxes:
   - md: |
@@ -130,22 +131,22 @@ modal:
   size: xs
   color: white
 modals:
-- id: programa-fuerza-funcional
-  title: FUERZA FUNCIONAL
-  icon: fitness_center
-  inputs:
-  - type: text
-    name: Nombre
-    req: true
-  - type: mail
-    name: Email
-    req: true
-  - type: area
-    name: Mensaje
-    req: true
+# - id: programa-fuerza-funcional
+#   title: FUERZA FUNCIONAL
+#   icon: fitness_center
+#   inputs:
+#   - type: text
+#     name: Nombre
+#     req: true
+#   - type: mail
+#     name: Email
+#     req: true
+#   - type: area
+#     name: Mensaje
+#     req: true
 - id: programa-general
   title: GENERAL
-  icon: check_circle
+  icon: fitness_center
   inputs:
   - type: text
     name: Nombre
@@ -183,8 +184,8 @@ modals:
     name: Mensaje
     req: true
 - id: programa-readaptacion-deportiva
-  title: READAPTACION DEPORTIVA
-  icon: cardiology
+  title: READAPTACIÓN DEPORTIVA
+  icon: physical_therapy
   inputs:
   - type: text
     name: Nombre
@@ -215,7 +216,7 @@ modals:
   icon_pos: sub
   size: lg
   md: |
-    | ::none::<br>Característica                      | ::check_circle::<br>General  | ::genetics::<br>Personalizado | ::rewarded_ads::<br>Premium | ::cardiology::<br>Readaptación | ::groups::<br>Boxes y Centros |
+    | ::none::<br>Característica                      | ::fitness_center::<br>General  | ::genetics::<br>Personalizado | ::rewarded_ads::<br>Premium | ::physical_therapy::<br>Readaptación | ::groups::<br>Boxes y Centros |
     | :---------------------------------------------- | ------------- | ------------- | --------------- | --------------- | ---------- |
     | Precio                                          | 60 €/mes      | 80 €/mes      | 130 €/mes       | 150 €/mes       | 160 €/mes  |
     | Nivel                                           | Intermedio/Rx | Adaptado      | Adaptado        | Adaptado        | Adaptado   |

@@ -1,10 +1,6 @@
 name: wod
 id: wod
-color: main-dark
 size: md
-fade: black
-fade_to: br
-div_y: false
 boxes:
 - title: WOD
   sub: Semanal

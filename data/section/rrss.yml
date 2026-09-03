@@ -1,7 +1,5 @@
 name: Rrss
 id: rrss
-color: white
-div_y: true
 boxes:
 - title: RRSS
   sub: ¡Síguenos!

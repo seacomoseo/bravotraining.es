@@ -1,7 +1,5 @@
 name: Colaboradores
 id: colaboradores
-color: white
-div_y: true
 boxes:
 - title: Colaboradores
   md: |

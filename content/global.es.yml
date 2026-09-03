@@ -21,11 +21,11 @@ footer:
   fade_to: b
   space: 2
   div: tear-alt
-  dots:
-  - url: https://g.page/r/CQO0z-fbrStlEAg
-  - url: https://www.instagram.com/paco_bravo_ccafd/
-  - url: https://www.instagram.com/bravo_training_/
-  - url: https://www.youtube.com/@bravotraining436
+  # dots:
+  # - url: https://g.page/r/CQO0z-fbrStlEAg
+  # - url: https://www.instagram.com/paco_bravo_ccafd/
+  # - url: https://www.instagram.com/bravo_training_/
+  # - url: https://www.youtube.com/@bravotraining436
   md: |
     - ::copyright::      {{< internal-link index >}}
     - ::balance:: {{< internal-link legal >}}

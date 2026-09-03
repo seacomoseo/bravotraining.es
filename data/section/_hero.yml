@@ -2,7 +2,7 @@ name: Hero
 color: main-dark
 fade: black
 fade_to: r
-bi: /u/videos/paco-bravo-world-crossfit-games-madison-usa.mp4#t=3
+bi: /u/videos/paco-bravo.webm
 alpha: 0.8
 scroll: fix
 size: sm

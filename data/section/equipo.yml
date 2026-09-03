@@ -1,11 +1,10 @@
 name: Equipo
 id: equipo
-color: light
 boxes:
 - title: Equipo
   box:
     cols: 3
-    color: white
+    color: such
     inset: true
   boxes:
   - title: Paco Bravo
@@ -55,6 +54,7 @@ modals:
     **Perfil académico**
     {.h4}
 
+    - ::check:: Técnico Superior en Acondicionamiento Físico
     - ::check:: Graduada en Educación Social (Universidad de Huelva)
     - ::check:: Coaching deportivo (FEF y AICM)
     - ::check:: Crossfit Level 1 Trainer (CF-OL1)

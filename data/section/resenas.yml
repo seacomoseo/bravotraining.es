@@ -1,13 +1,9 @@
 name: Resenas
 id: resenas
-color: main-dark
-fade: black
-fade_to: br
-div_y: false
 boxes:
 - title: Reseñas
 - review:
-    color: white
+    color: such
     slider: true
     cols: 3
   reviews:

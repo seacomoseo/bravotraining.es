@@ -1,9 +1,6 @@
 name: Nosotros
 id: nosotros
-color: main-dark
 size: md
-fade: black
-fade_to: br
 boxes:
 - title: Nosotros
   box:

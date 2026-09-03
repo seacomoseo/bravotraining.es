@@ -2,16 +2,20 @@ title: Únicas
 base: single
 weight: 0
 tpl:
+  # bg:
+  #   color: main-light
   menu:
     logo: false
     sticky: auto
   callnow: auto
   section:
-  - size: lg
+  - 
     scroll: fix
+    size: lg
     div: tear-alt
     box:
       caps: true
       line: true
   - div_x: true
     div_y: true
+    color: white

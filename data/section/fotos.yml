@@ -1,11 +1,9 @@
 name: Fotos
 id: fotos
-color: main-dark
-fade: black
-fade_to: br
-div_y: false
 boxes:
 - title: Fotos
+  gallery:
+    cols: 4
   imgs:
   - /u/fotos/entrenador-personal.jpg
   - /u/fotos/2024-07-26-13-54-23-sm.jpg
@@ -19,8 +17,3 @@ boxes:
   - /u/fotos/training-camp-2022-bravo-training.jpg
   - /u/fotos/2024-07-26-13-54-04-sm.jpg
   - /u/fotos/2024-07-26-13-54-28-sm.jpg
-  gallery:
-    gray: false
-    cols: 4
-    color: white
-    contain: true
