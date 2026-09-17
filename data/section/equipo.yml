@@ -6,6 +6,7 @@ boxes:
     cols: 3
     color: such
     inset: true
+    pin: add
   boxes:
   - title: Paco Bravo
     sub: Entrenador Personal y Atleta

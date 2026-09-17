@@ -12,6 +12,7 @@ boxes:
       gap_vs: 1
       color: such
       label: Más Información
+      pin: add
     boxes:
     - title: Programación Deportiva
       sub: en Cross Training
@@ -42,6 +43,7 @@ boxes:
       color: such
       url: '#contacto'
       label: Más Información
+      pin: add
     boxes:
     - title: Diseñamos tu<br>TRAINING CAMP
       icon: edit_calendar
