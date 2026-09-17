@@ -10,11 +10,10 @@ pt: 2
 pb: 2
 full: true
 boxes:
-- img: /u/base/logo.svg
-  fit: .5
-  fit_vs: .75
+- img: /u/base/logo.png
+  # fit: .75
 - hanchor: Entrenador Personal y Readaptación Deportiva
-  title: Bravo Training ®
+  # title: Bravo Training ®
   sub: '*Programación Cross Training e Híbrido* *Formacion Online* *Readaptación Deportiva* *Personal Training*'
   md: |
     Te ayudamos a comprender y mejorar tu rendimiento deportivo

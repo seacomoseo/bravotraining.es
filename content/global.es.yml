@@ -14,7 +14,7 @@ menu:
   - label: BUZÓN
     url: /#buzon
     btn: cta
-  img: /u/base/logo.svg
+  img: /u/base/logo.png
 callnows: []
 footer:
   fade: black

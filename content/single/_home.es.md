@@ -1,7 +1,7 @@
 ---
 slug: /
 title: Inicio
-img: /u/base/logo-bg.png
+img: /u/base/poster.png
 seo:
   title: Bravo Training ® Entrenador Personal y Readaptación Deportiva
   desc: Programación Cross Training e Híbrido, Formacion Online, Readaptación Deportiva y PT. Te ayudamos a comprender y mejorar tu rendimiento deportivo.
@@ -15,7 +15,7 @@ org:
   legal: Paco Bravo
   nif: null
   mail: null
-  logo: /u/base/logo.svg
+  logo: /u/base/poster.png
   imgs:
   - /u/videos/seminario-cross-training.jpg
   - /u/fondo.jpg
