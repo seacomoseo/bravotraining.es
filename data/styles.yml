@@ -69,7 +69,7 @@ rounded:
 btns:
   pill: false
   disc: false
-  deep: false
+  deep: true
   outline: false
   font:
     type: title
